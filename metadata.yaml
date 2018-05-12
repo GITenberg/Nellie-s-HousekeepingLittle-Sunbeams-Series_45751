@@ -1,0 +1,38 @@
+_repo: Nellie-s-HousekeepingLittle-Sunbeams-Series_45751
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45751-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Mathews, Joanna H. (Joanna Hooe)
+    birthdate: 1849
+    deathdate: 1901
+    gutenberg_agent_id: '2089'
+    url: http://www.gutenberg.org/2009/agents/2089
+description: ''
+gutenberg_issued: '2014-05-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45751'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cats -- Juvenile fiction'
+- !lcsh 'Housekeeping -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Children''s stories'
+- !lcsh 'Mice -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Courtship -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Fathers and daughters -- Juvenile fiction'
+tableOfContents: Hard at work -- A talk with papa -- Nellie a housekeeper -- A courtship
+  -- White mice -- The gray mice -- The black cat -- Daisy's sacrifice -- Making ginger-cakes
+  -- Fresh troubles -- A night of it -- An alarm -- Last of the sunbeams.
+title: 'Nellie''s Housekeeping
+
+  Little Sunbeams Series'
+url: http://www.gutenberg.org/ebooks/45751
